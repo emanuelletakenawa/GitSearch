@@ -20,6 +20,8 @@ Git Search - um site para pesquisar usuários GitHub que te permite visualizar t
 Caso sua pesquisa não seja bem sucedida, você é redirecionado para outra página informando que o usuário não foi
 encontrado!
 Nesse projeto foi consumida a API do GitHub
+
+O layout foi criado nos conceitos de mobile first e está responsivo para todos os tamanhos de tela.
 <hr>
 
 <h1 align="center">
