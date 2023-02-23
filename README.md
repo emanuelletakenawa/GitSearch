@@ -1,5 +1,5 @@
 <h1 align="center">
-     <img src="https://i.ibb.co/jRyQDcC/Design-sem-nome-7-removebg-preview-removebg-preview.png" alt="logo" width=200>
+     <img src="https://i.ibb.co/jRyQDcC/Design-sem-nome-7-removebg-preview-removebg-preview.png" alt="logo" width=210>
 </h1>
 
 <h1 align="center">
