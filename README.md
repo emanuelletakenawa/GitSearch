@@ -21,7 +21,7 @@ Caso sua pesquisa não seja bem sucedida, você é redirecionado para outra pág
 encontrado!
 Nesse projeto foi consumida a API do GitHub
 
-O layout foi criado nos conceitos de mobile first e está responsivo para todos os tamanhos de tela.
+O layout foi criado nos conceitos de mobile first e está disponível para todos os tamanhos de tela.
 <hr>
 
 <h1 align="center">
